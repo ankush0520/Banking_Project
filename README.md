@@ -1,2 +1,2 @@
 ## Banking_Project
-It includes oops concept(Encapsulation) of Java programming. 
+It includes OOPs concept(Encapsulation) of Java programming. 
